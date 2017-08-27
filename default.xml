@@ -62,7 +62,6 @@
   <project path="system/media" name="abc_system_media" groups="pdk" remote="abc" revision="n2" />
   <project path="system/netd" name="abc_system_netd" groups="pdk" remote="abc" revision="n2" />
   <project path="system/sepolicy" name="abc_system_sepolicy" groups="pdk" remote="abc" revision="n2" />
-  <project path="vendor/nexus" name="abc_vendor_nexus" remote="abc" revision="n2" />
 
   <!-- Substratum -->
   <project path="packages/services/ThemeInterfacer" name="interfacer" remote="substratum" revision="n-rootless" />
